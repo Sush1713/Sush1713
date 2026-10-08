@@ -1,8 +1,8 @@
 # Hi, I'm Susmita Giri 👋
 
-**Business Analysis | Requirements Gathering | Process Documentation | Project Coordination | Stakeholder Engagement**
+**Business Analysis | Project Coordination | Product Ownership | Process Improvement | Prompt Engineering**
 
-I am a recent postgraduate with a **Master of Digital Business (AI and Business Analytics)** from the University of Waikato, completed with **First Class Honours**, and an **MBA in Finance**. I am seeking **Business Analyst and Project Coordinator** roles in New Zealand.
+A detail oriented Information Technology professional with hands on experience in translating customer and business expectations into structured requirements, mapping business processes, and coordinating DevOps activities. I specialise in simplifying complex problems, engaging stakeholders, and managing go-to-market activities to ensure maximum possible customer value.
 
 ---
 
