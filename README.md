@@ -1,50 +1,29 @@
 # Hi, I'm Susmita Giri 👋
 
-**Business Analysis | Project Coordination | Product Ownership | Process Improvement | Prompt Engineering**
+## Profile Summary
 
-A detail oriented Information Technology professional with hands on experience in translating customer and business expectations into structured requirements, mapping business processes, and coordinating DevOps activities. I specialise in simplifying complex problems, engaging stakeholders, and managing go-to-market activities to ensure maximum possible customer value.
+A detail-oriented analyst with hands on experience in requirements elicitation, stakeholder engagement, business process mapping, project coordination, and go-to-market activities. I specialize in simplifying complex problems into structured requirements, mapping business processes, coordinating user acceptance testing, and managing go-to-market activities to deliver scalable solutions and achieve best possible customer satisfaction.
 
----
+## Core Competencies
 
-## 💼 What I Bring
+Business Analysis | Project Coordination | Product Ownership | Stakeholder Management | Scrum & Kanban | Agile | User Acceptance Testing | Change Delivery | Process Improvement | Prompt Engineering | Data Analytics
 
-**Business Analysis**
-- Gathering requirements through stakeholder interviews and workshops
-- Writing user stories with clear acceptance criteria
-- Mapping current (As-Is) and future (To-Be) processes, and finding gaps
-- Building requirements traceability matrices (RTM) and supporting user acceptance testing (UAT)
-- Writing clear process documents, SOPs and guides in plain English
+## What I Bring
 
-**Project Coordination**
-- Tracking tasks, actions and deadlines using Jira and Excel
-- Keeping project documents organised in Confluence and SharePoint
-- Preparing meeting notes, status updates and follow-ups
-- Supporting Agile delivery: sprint planning, backlogs and roadmaps
-- Working with different teams to keep work on track and on time
+### Analysis and Coordination
 
-**Strengths**
-- Finance background that helps me understand costs and business impact
-- Clear, simple communication with technical and non-technical people
-- Organised, detail-focused and quick to learn new systems
+- Translating business requirements into epics, features, user stories, and acceptance criteria
+- Facilitating sprint planning, backlog refinement, three amigos sessions, retrospectives, and stand-ups for work intake, sizing, prioritisation, and scheduling
+- Coordinating user acceptance testing (UAT) to log bugs and enhancements and build the backlog for continuous improvement
+- Mapping customer journeys and business processes to run gap analysis, find improvement opportunities, and enhance user experience
+- Creating user guides, standard operating procedures (SOPs), and project documentation, and delivering training for go-to-market and change management
 
----
+### Governance and Finance
 
-## 🛠️ Tools
+- Transforming data and building dashboards for trend analysis and insights that support decision-making
+- Supporting budget control activities to ensure financial compliance
+- Managing the RAID register (Risks, Assumptions, Issues, Dependencies) to support smooth delivery
 
-`Excel` `Visio` `Jira` `Confluence` `Microsoft 365` `SharePoint` `Power BI` `SQL`
+## Tools
 
-## 🎓 Certifications and Recognition
-
-- Microsoft Business Analyst Professional Certificate – Microsoft
-- Agile Foundations – Atlassian (via LinkedIn Learning)
-- SQL for Data Science – University of California, Davis
-- Excel Skills for Business Specialization – Macquarie University
-- Prompt Engineering for ChatGPT – Vanderbilt University
-- AI Literacy for All – University of Waikato
-- Employability Plus Award (Gold Level) – University of Waikato
-
----
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/susmita-kumari-giri/) · sushmitagiri754@gmail.com · Hamilton, NZ · Open to roles across New Zealand
+Microsoft Office | MS Visio | SharePoint | Azure DevOps | Miro | Jira | Confluence | Power BI | Tableau | SQL
