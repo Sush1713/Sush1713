@@ -26,4 +26,4 @@ Business Analysis | Project Coordination | Product Ownership | Stakeholder Manag
 
 ## Tools
 
-Microsoft Office | MS Visio | SharePoint | Azure DevOps | Miro | Jira | Confluence | Power BI | Tableau | SQL
+Microsoft Office | Excel (Power Query) | MS Visio | SharePoint | Azure DevOps | Miro | Jira | Confluence | Power BI | DAX | Tableau | SQL
